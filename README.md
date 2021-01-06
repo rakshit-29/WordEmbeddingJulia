@@ -1,0 +1,2 @@
+# WordEmbeddingJulia
+This is a project that I made in 3rd year in my Topics Artificial Intelligence course. I used Google Word2Vec pre-trained embeddings. Used cosine similarity to determine the similarity between words. Ultimately, used a corpus of IMDB reviews with positive and negative reviews to do a sentiment analysis using Naive Bayes classifier in TextAnalysis.jl. The model is trained and it predicts the sentiment of the review entered, either negative or positive.
